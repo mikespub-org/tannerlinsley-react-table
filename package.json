@@ -107,6 +107,6 @@
     "rollup-plugin-size": "^0.2.2",
     "rollup-plugin-size-snapshot": "^0.12.0",
     "rollup-plugin-terser": "^7.0.2",
-    "serve": "^11.3.2"
+    "serve": "^12.0.0"
   }
 }
