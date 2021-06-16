@@ -13,7 +13,7 @@
     "react-scripts": "4.0.3",
     "react-table": "latest",
     "bootstrap": "^5.0.1",
-    "react-bootstrap": "^1.6.0"
+    "react-bootstrap": "^1.6.1"
   },
   "devDependencies": {
     "@rescripts/cli": "^0.0.16",
